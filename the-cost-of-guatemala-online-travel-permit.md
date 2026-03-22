@@ -87,5 +87,5 @@ By understanding the difference between the official free declaration and paid t
 
 ### Related topics:
 
-- [Top Places to Visit in Guatemala](top-places-to-visit-in-guatelama.md)
-- [In Guatemala With Kids](in-guatemala-with-kids.md)
+- [Top Places to Visit in Guatemala](top-places-to-visit-in-guatemala.md)
+- [Guatemala With Kids](guatemala-with-kids.md)
