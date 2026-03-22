@@ -26,7 +26,7 @@ This repository provides verified, practical travel information for visitors to 
 - Essential emergency contacts and travel advice.
 
 ### Related topics:
-[Top Places to Visit in Guatemala](top-places-to-visit-in-guatemala.md) • [In Guatemala With Kids](in-guatemala-with-kids.md) • [Cost of the Guatemala Online Travel Permit](cost-of-the-guatemala-online-travel-permit.md)
+[Top Places to Visit in Guatemala](top-places-to-visit-in-guatemala.md) • [Guatemala With Kids](guatemala-with-kids.md) • [Cost of the Guatemala Online Travel Permit](cost-of-the-guatemala-online-travel-permit.md)
 
 ## Repository topics
 travel-tips, guatemala-travel, guatemala-entry-application-form
