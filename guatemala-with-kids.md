@@ -157,5 +157,5 @@ Children can explore ancient Mayan ruins, kayak on volcanic lakes, learn traditi
 
 #### **Related topics:**
 
-- [Top Places to Visit in Guatemala](top-places-to-visit-in-guatelama.md)
+- [Top Places to Visit in Guatemala](top-places-to-visit-in-guatemala.md)
 - [The Cost of the Guatemala Online Travel Permit](the-cost-of-guatemala-online-travel-permit.md)
