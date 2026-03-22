@@ -1,4 +1,4 @@
-# Traveling in Guatemala with Kids
+# Guatemala with Kids
 
 Guatemala is one of Central America’s most culturally rich and naturally beautiful destinations. Families traveling with children can experience ancient Mayan ruins, colorful colonial towns, volcanoes, lakes, wildlife, and cultural traditions. Although the country offers many rewarding experiences for families, it is important to understand both the safety considerations and the types of activities that are most suitable for children.
 
