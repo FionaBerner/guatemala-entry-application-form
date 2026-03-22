@@ -1,6 +1,6 @@
 # Cost of the Guatemala Online Travel Permit
 
-Travelers entering Guatemala are required to complete an online immigration declaration before arrival or departure. This digital document, commonly called the **Regional Traveler Affidavit (Declaración Jurada Regional de Viajero – DJRV)**, replaces the old paper declaration forms that were previously handed out on airplanes or completed at airports. :contentReference[oaicite:0]{index=0}  
+Travelers entering Guatemala are required to complete an online immigration declaration before arrival or departure. This digital document, commonly called the **Regional Traveler Affidavit (Declaración Jurada Regional de Viajero – DJRV)**, replaces the old paper declaration forms that were previously handed out on airplanes or completed at airports.
 
 Understanding the cost of this online travel permit can be confusing because official government forms are free, while some private websites charge a fee based on additoinal services like customer support among others.
 
@@ -10,9 +10,9 @@ Understanding the cost of this online travel permit can be confusing because off
 
 ## Is the Guatemala Online Travel Permit Free?
 
-In most cases, the official **[Guatemala online immigration declaration](https://guatemalaentryform.com/) form is free when completed on the government website**. Travelers can submit the form online before their trip and receive a confirmation QR code that must be presented at immigration. :contentReference[oaicite:1]{index=1}  
+In most cases, the official **[Guatemala online immigration declaration](https://guatemalaentryform.com/) form is free when completed on the government website**. Travelers can submit the form online before their trip and receive a confirmation QR code that must be presented at immigration.
 
-The digital system was introduced to modernize the entry process and reduce paperwork at airports. Instead of filling out paper forms during a flight or upon arrival, travelers now submit their information electronically before reaching Guatemala. :contentReference[oaicite:2]{index=2}  
+The digital system was introduced to modernize the entry process and reduce paperwork at airports. Instead of filling out paper forms during a flight or upon arrival, travelers now submit their information electronically before reaching Guatemala.
 
 Because the form is handled online, the process is generally faster and helps immigration officers process passengers more efficiently when they arrive in the country.
 
@@ -20,7 +20,7 @@ Because the form is handled online, the process is generally faster and helps im
 
 ## Why Some Websites Charge a Fee
 
-While the official immigration declaration itself is free, many private visa-assistance websites offer help with completing and submitting the form. These services typically charge a **processing or service fee**, even though the underlying document does not require payment when submitted directly through the government portal. :contentReference[oaicite:3]{index=3}  
+While the official immigration declaration itself is free, many private visa-assistance websites offer help with completing and submitting the form. These services typically charge a **processing or service fee**, even though the underlying document does not require payment when submitted directly through the government portal.
 
 Typical third-party service fees can include:
 
@@ -29,7 +29,7 @@ Typical third-party service fees can include:
 - Faster document preparation or delivery  
 - Email delivery of the QR code confirmation  
 
-Some private websites charge around **$70–$78 USD per applicant** for assistance with the application. :contentReference[oaicite:4]{index=4}  
+Some private websites charge around **$70–$78 USD per applicant** for assistance with the application.
 
 It is important for travelers to understand that these charges are optional and are not required by the Guatemalan government. Applying directly through the official system allows travelers to avoid these additional costs.
 
