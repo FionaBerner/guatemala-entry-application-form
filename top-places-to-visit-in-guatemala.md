@@ -45,7 +45,7 @@ One of the largest traditional markets in Central America:
 ### Related topics:
 
 - [Guatemala With Kids](guatemala-with-kids.md)
-- [Cost of the Guatemala Online Travel Permit](cost-of-guatemala-online-travel-permit.md)
+- [The Cost of the Guatemala Online Travel Permit](the-cost-of-guatemala-online-travel-permit.md)
 
 ## Important Reminder
 Foreign visitors must complete the **mandatory Guatemala Entry Application Form** before traveling. This online form is required for smooth entry into the country.
